@@ -1,0 +1,11 @@
+{
+  "name": "money-machine-marketplace",
+  "owner": { "name": "fahadisthegoat2-hub" },
+  "plugins": [
+    {
+      "name": "money-machine",
+      "source": "./",
+      "description": "Revenue-focused Claude: niche finder, offer builder, 7-day cash sprints."
+    }
+  ]
+}
